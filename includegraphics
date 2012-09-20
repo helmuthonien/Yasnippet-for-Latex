@@ -1,4 +1,4 @@
-#name :\includegraphics[width=${2:0.5}\textwidth]{${1:test.eps}} 
+#Picture environment with the width of have of the text width. 
 # --
 
 \includegraphics[width=${2:0.5}\textwidth]{${1:location}.eps}
