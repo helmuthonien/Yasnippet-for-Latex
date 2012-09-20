@@ -1,4 +1,5 @@
-#name : \begin{itemize} ... \end{itemize}
+#ToDo: To add new \item[] by pushing any button 
+#Itemize 
 # --
 
 \begin{itemize}
