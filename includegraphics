@@ -1,0 +1,4 @@
+#name :\includegraphics[width=${2:0.5}\textwidth]{${1:test.eps}} 
+# --
+
+\includegraphics[width=${2:0.5}\textwidth]{${1:location}.eps}

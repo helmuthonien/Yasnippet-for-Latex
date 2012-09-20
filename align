@@ -1,0 +1,6 @@
+#name : \begin{align}...\end{align}
+# --
+
+\begin{align${1:*}}
+${2:=}&$3 \\\
+\end{align$1}

@@ -1,0 +1,4 @@
+#name :\setcounter 
+# --
+
+\setcounter{${1:chapter,section,subsection}}{${2:number}} 

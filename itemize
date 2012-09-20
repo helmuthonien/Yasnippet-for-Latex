@@ -1,0 +1,8 @@
+#name : \begin{itemize} ... \end{itemize}
+# --
+
+\begin{itemize}
+	\item[$1]
+	$0
+\end{itemize}
+
