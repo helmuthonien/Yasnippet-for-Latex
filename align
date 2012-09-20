@@ -1,4 +1,4 @@
-#name : \begin{align}...\end{align}
+# This file make a align environment
 # --
 
 \begin{align${1:*}}
